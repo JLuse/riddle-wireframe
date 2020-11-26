@@ -1,0 +1,23 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    min-width: 100%;
+    text-align: center;
+    background-color: #C6C5B9;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 1.2rem;
+  }
